@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "0x30.dev"
 title        = "0x30"
 languageCode = "en-gb"
 theme        = "hugo-theme-hello-friend-ng"
